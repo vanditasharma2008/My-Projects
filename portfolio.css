@@ -1,0 +1,45 @@
+.icon-bar{
+    width:100%;
+    background: rgb(194, 210, 218);
+    overflow:auto;
+}
+.icon-bar a{
+   float:left;
+   text-align:center;
+   width:20%;
+   font-family: Montserrat;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 18px;
+   line-height: 90px;
+   color: rgba(29, 27, 27, 0.65);
+   margin-top: 0;
+}
+
+.icon-bar a:hover{
+    background-color:sienna;
+	color: white;
+}
+.active{
+    background-color:sienna;
+	color: white;
+}
+.heading{
+font-family: Lemon;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 52px;
+color:rgb(128, 62, 0);
+}
+.content{
+font-family: Lemon;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 52px;
+color: rgb(128, 62, 0);
+}
+.abc {
+	margin-left:10%;
+}
